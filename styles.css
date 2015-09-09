@@ -1,0 +1,21 @@
+h1 {
+	color:red;
+	font-size: 18px;
+}
+.myBtn {
+	height:30px;
+	width:80px;
+	background-color: darkseagreen;
+	color:darkred;
+}
+#threeNumberResult {
+	font-size: 21px;
+	color: darkblue;
+	text-transform: capitalize;
+}
+@media (min-width: 768px){
+	h1 {
+		color:green;
+		font-size: 36px;
+	}
+}
